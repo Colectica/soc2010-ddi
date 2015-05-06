@@ -27,4 +27,4 @@ Again from [Wikipedia](http://en.wikipedia.org/wiki/Data_Documentation_Initiativ
 
 ## Output
 
-Download the resulting XML: [isco.ddi3.xml](https://github.com/downloads/Colectica/socs2010-ddi/soc2010.ddi3.xml)
+Download the resulting XML: [isco.ddi3.xml](https://raw.githubusercontent.com/Colectica/soc2010-ddi/master/output/soc2010.ddi3.xml)
